@@ -17,4 +17,5 @@ Live Demo
 Click here to try it on Netlify
 
 Screenshot
-![App Screenshot](assets/screenshot.png)
+![Simple-todo-app](assets/screenshot%2025-08-13%215447.png)
+
