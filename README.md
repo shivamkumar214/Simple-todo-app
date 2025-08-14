@@ -17,5 +17,8 @@ Live Demo
 Click here to try it on Netlify
 
 Screenshot
-![Simple-todo-app](assets/Screenshot%2025-08-13%215447.png)
+![Simple-todo-app](assets/screenshot.png)
+<img width="1258" height="814" alt="Screenshot 2025-08-13 215447" src="https://github.com/user-attachments/assets/6d1c731e-30bb-400b-8add-65e6b76e1405" />
+
+
 
