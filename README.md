@@ -14,10 +14,9 @@ Convert tasks to uppercase or lowercase
 Mobile-friendly design
 
 Live Demo
-Click here to try it on Netlify
+![Click here to try it on Netlify](https://simple-todo-appfrom.netlify.app/)
 
 Screenshot
-![Simple-todo-app](assets/screenshot.png)
 <img width="1258" height="814" alt="Screenshot 2025-08-13 215447" src="https://github.com/user-attachments/assets/6d1c731e-30bb-400b-8add-65e6b76e1405" />
 
 
